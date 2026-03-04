@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "HolyZen - 寝れない夜 feat.Hanemii (Official Music Video)",
+  "base_artist": "HolyZen",
+  "createdAt": "2026-03-04T11:46:38.784771Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "寝れない夜 (feat. Hanemii)",
+      "artist": "HolyZen",
+      "has_synced": false,
+      "path": "select/pl_01_寝れない夜_(feat._Hanemii)_HolyZen.txt"
+    }
+  ]
+}
